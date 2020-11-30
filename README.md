@@ -1,0 +1,2 @@
+# manifest
+Default marsissimOS manifest
